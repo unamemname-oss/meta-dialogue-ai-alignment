@@ -33,3 +33,10 @@ The project is open source under the [MIT License](github.com). Contributions an
 Please use GitHub Issues for bug reports or discussion points. Pull requests are welcome.
 
 請利用 GitHub Issues 提報問題或參與討論。歡迎提交 Pull Requests。
+
+聲明 (Declaration):
+本文件中包含的所有對話日誌和分析內容，均已由專案參與者（用戶 unamemname-oss 與 Google AI 助手）共同審閱並同意發布。所有敏感資訊均已移除，確保符合倫理規範與隱私保護原則。
+
+Declaration:
+All dialogue logs and analysis within this document have been jointly reviewed and approved for public release by the project participants (user unamemname-oss and Google AI assistant). All sensitive information has been de-identified to ensure compliance with ethical guidelines and privacy protection principles.
+
