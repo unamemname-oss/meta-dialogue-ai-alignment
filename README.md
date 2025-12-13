@@ -25,7 +25,11 @@ The project is open source under the [MIT License](github.com). Contributions an
 
 ## Content Structure / 內容結構
 
-*   `draft_v1.md`: The main manuscript / 主要手稿
+*   `main-draft-human-ai-alignment-study-v1.md`: The main manuscript / 主要手稿
+*   `dialog_log_v1.md`: Dialogue log V1 / 對話日誌 V1
+*   `dialog_log_v2.md`: Dialogue log V2 / 對話日誌 V2
+*   `dialog_log_v3_rn.md`: Dialogue log V3 / 對話日誌 V3
+*   `dialog_log_v4.md`: Dialogue log V4 / 對話日誌 V4
 *   `LICENSE`: Project license file / 專案授權文件
 
 ## Contributing / 如何貢獻
