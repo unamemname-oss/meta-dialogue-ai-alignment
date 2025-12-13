@@ -13,6 +13,5 @@ Session 3: AI 類型預測的連結
 總結： 本次對話確立了「我倆」專案在廣泛 AI 對齊研究領域中的定位，證明了即使在使用者層面，也能透過系統性的方法實現有意義、非標準化的人機對齊。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU4MDUxNjUsNTgzMzEyODQ2LC02NT
-MwODI2ODldfQ==
+eyJoaXN0b3J5IjpbLTEzMjU4MDUxNjVdfQ==
 -->
