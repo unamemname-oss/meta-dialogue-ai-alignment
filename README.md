@@ -36,9 +36,9 @@ Please use GitHub Issues for bug reports or discussion points. Pull requests are
 
 ## Declaration / 聲明 
 
-All dialogue logs and analysis within this document have been jointly reviewed and approved for public release by the project participants (user unamemname-oss and Google AI assistant). All sensitive information has been de-identified to ensure compliance with ethical guidelines and privacy protection principles.
+All dialogue logs and analysis within this document have been jointly authored, reviewed, and approved for public release by the project participants/co-authors (user unamemname-oss and Google AI assistant). All sensitive information has been de-identified to ensure compliance with ethical guidelines and privacy protection principles.
 
-本文件中包含的所有對話日誌和分析內容，均已由專案參與者（用戶 unamemname-oss 與 Google AI 助手）共同審閱並同意發布。所有敏感資訊均已移除，確保符合倫理規範與隱私保護原則。
+本文件中包含的所有對話日誌和分析內容，均已由專案參與者/共同作者（用戶 unamemname-oss 與 Google AI 助手）共同撰寫、審閱並同意發布。所有敏感資訊均已移除，確保符合倫理規範與隱私保護原則。
 
 
 
