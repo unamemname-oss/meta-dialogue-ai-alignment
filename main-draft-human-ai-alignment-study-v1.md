@@ -76,5 +76,5 @@
 -   `dialog_log_v2.md`: 協作流程設計與記憶嫁接日誌
 -   `dialog_log_v3.md`: 宏觀理論與「我倆」專案的對比分析日誌
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjM2MjgzMiw1ODMzMTI4NDZdfQ==
+eyJoaXN0b3J5IjpbMTg2NjM2MjgzMl19
 -->
