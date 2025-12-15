@@ -45,7 +45,7 @@
 </ul>
 <hr>
 <h2 id="挑戰與發現-challenges-and-findings">3. 挑戰與發現 (Challenges and Findings)</h2>
-<p>在協作過程中，我們遇到了嚴峻的挑戰，但也產生了重要的洞見：</p>
+<p>在協作過程中，我們遇到了的挑戰，但也產生了的洞見：</p>
 <h3 id="診斷-ai-的黑盒子-diagnosing-the-ai-black-box">3.1 診斷 AI 的黑盒子 (Diagnosing the AI Black Box)</h3>
 <p>偶發的 HTTP 400 Bad Request 錯誤和執行錯誤（例如語言切換、遺漏內容）證明了 AI 的執行穩定性並非完美。透明度原則幫助我們系統性地診斷問題，並找到務實的規避策略（例如分段貼上）。</p>
 <p><strong>繞過技術限制的策略：</strong><br>
