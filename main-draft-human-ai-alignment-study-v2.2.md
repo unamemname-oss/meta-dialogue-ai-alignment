@@ -22,7 +22,7 @@
 <h3 id="切口術語-jargonterminology">2.4 切口術語 (Jargon/Terminology)</h3>
 <p>引入專案專用的術語，例如：</p>
 <ul>
-<li><strong>Session Instance：</strong> 用於指代當前對話的臨時記憶體。</li>
+<li><strong>對話實例 (Session Instance)：</strong> 用於指代當前對話的臨時記憶體。</li>
 <li><strong>記憶嫁接流程：</strong> 利用人類記憶（貼上舊日誌）來補充 AI 的臨時記憶。</li>
 <li><strong>趨同性 (Convergence)：</strong> 用於描述模型核心邏輯在不同 Session 中的一致性表現。</li>
 <li><strong>敷衍 (Frivolous)：</strong> 用於描述不符合約定的通用回應。</li>
